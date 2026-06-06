@@ -1,10 +1,10 @@
-#Student Management System
+# Student Management System
 
-##Description
+## Description
 
 This project is a menu-driven Student Management System developed in C Programming. It uses structures and file handling to store student records permanently.
 
-##Features
+## Features
 
 - Add Student Record
 - Display Student Records
@@ -12,13 +12,13 @@ This project is a menu-driven Student Management System developed in C Programmi
 - Update Student Record
 - Delete Student Record
 
-##Technologies Used
+## Technologies Used
 
 - C Programming
 - Structures
 - File Handling
 
-##How to Run
+## How to Run
 
 1. Compile the program using a C compiler.
 2. Run the executable file.
@@ -26,7 +26,7 @@ This project is a menu-driven Student Management System developed in C Programmi
 4. Enter student details.
 5. View the results.
 
-##Sample Output
+## Sample Output
 
 1. Add Student
 
@@ -44,10 +44,10 @@ Enter Choice: 1
 
 Student Added Successfully!
 
-##Author
+## Author
 
 Nandini Borra
 
-##Internship
+## Internship
 
 CodeAlpha C Programming Internship
